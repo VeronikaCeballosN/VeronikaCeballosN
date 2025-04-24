@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VeronikaCeballosN
 - 👀 I’m interested in Computational Biology, Ecological modeling, Mathematical modeling of biological systems.
 - 🌱 I’m currently learning about Community modeling.
-- 💞️ I’m looking to collaborate on research about plant traits.
+- 💞️ I’m looking to further my knowledge in software development and design.
 - 📫 How to reach me: https://www.researchgate.net/profile/Veronika-Ceballos-Nunez
 -                     https://orcid.org/0000-0002-0046-1160
 
